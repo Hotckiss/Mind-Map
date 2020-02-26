@@ -26,3 +26,9 @@ before_script:
 
 script: 
   - make
+
+notifications:
+  email:
+    recipients:
+      - kirilenko_aa@mail.ru
+      - kirilenko.haa@gmail.com
